@@ -1,10 +1,10 @@
 <?php
 $animals = [
-            'Australia' => ['Inaria','Agalychnis callidryas'],            
+            'Australia' => ['Inaria','Agalychnis callidryas','Tasmanian Devil','Black Swan''Cane Toad'],            
             'North America' => ['Conuropsis carolinensis'],
             'South America' => ['Smilisca','Panthera leo'],
             'Antarctica' => ['Aptenodytes forsteri'],
-            'Eurasia' => ['Fulica atra'],
+            'Eurasia' => ['Fulica atra','Malayan Tapir','Indian Rhinoceros','Slow Loris','Asian Elephant'],
             'Africa' => ['Hydrochoerus hydrochaeris','Actinopterygii','Ailuropoda melanoleuca','Dendropithecus','Amphibia','Animalia','Anser indicus','Anseriformes']
             ];
 $firstname = [];
